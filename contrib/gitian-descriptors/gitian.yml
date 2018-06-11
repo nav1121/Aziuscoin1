@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/nav1121/Aziuscoin"
+- "url": "https://github.com/nav1121/Aziuscoin1"
   "dir": "aizeus"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"
