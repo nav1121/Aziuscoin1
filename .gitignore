@@ -1,0 +1,34 @@
+src/*.exe
+src/aizeus
+src/aizeusd
+src/test_aizeus
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.aizeus
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+aizeus-qt
+AIZEUS-Qt.app
+
+# Unit-tests
+Makefile.test
+aizeus-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

@@ -1,0 +1,9 @@
+Building AIZEUS
+
+See doc/readme-qt.rst for instructions on building AIZEUS-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AIZEUS.
+
+See doc/build-*.txt for instructions on building aizeusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of AIZEUS.
